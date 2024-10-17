@@ -17,4 +17,4 @@ As of this commit, these are the known bugs:
 
 ## Contributing
 
-Please clone this repo and improve it as you see fit. This is a 90 minute project that I do not intent to polish or maintain.
+Please clone this repo and improve it as you see fit. This is a 90 minute project that I do not intend to polish or maintain.
